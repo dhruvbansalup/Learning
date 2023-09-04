@@ -1,2 +1,2 @@
 # Learning
-my first git repository
+My First Git Repository
